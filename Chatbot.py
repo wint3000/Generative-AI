@@ -9,7 +9,7 @@ Created on Sun Aug 24 15:28:25 2025
 import os
 import streamlit as st
 
-st.set_page_config(page_title="My Chatbot", page_icon="💬")
+st.set_page_config(page_title="Winton's ChatBot", page_icon="💬")
 st.title("💬 Chatbot")
 
 # --- Sidebar controls ---
