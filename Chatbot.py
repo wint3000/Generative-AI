@@ -10,7 +10,7 @@ import os
 import streamlit as st
 
 st.set_page_config(page_title="Winton's ChatBot", page_icon="💬")
-st.title("😄 Winton's Chatbot")
+st.title("😄 Winton's AI Assistant")
 
 # --- Sidebar controls ---
 with st.sidebar:
